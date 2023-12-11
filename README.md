@@ -15,9 +15,9 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline using Datab
 
 ## Screenshots
 Include the following screenshots in your README:
-1. **Data Ingestion Step**: Screenshot of the notebook section where the CSV file is being read.
-2. **Data Transformation**: Capture of the Spark SQL queries in action.
-3. **Visualizations**: Images of the histograms and bar charts created.
-4. **Pipeline Configuration**: Screenshot of the Delta Live Tables setup in Databricks.
+1. **Data Ingestion Step**:![Alt text for the image](Images/Data_ingestion.png)
+3. **Data Transformation**:![Alt text for the image](Images/Data_transformation.png)
+4. **Visualizations**:![Alt text for the image](Images/Visualizations.png)
+5. **Pipeline Configuration**:![Alt text for the image](Images/Pipeline_configuration.png)
 
-Remember to update the paths and specifics to match your project's details.
+Link for Demo:
